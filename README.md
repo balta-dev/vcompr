@@ -6,6 +6,9 @@ VCut is a lightweight command-line tool to quickly compress videos.
 * EXTREMELY FAST
 * very easy to use
 
+# REQUIREMENTS
+* [FFMPEG](https://ffmpeg.org/download.html)
+
 # --- Linux ---
 
 ## Download the latest release:
