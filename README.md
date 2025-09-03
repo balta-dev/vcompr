@@ -3,8 +3,7 @@
 VCut is a lightweight command-line tool to quickly compress videos.
 * Supports any video format
 * You decide how much compression is used (for example, 95 means 95% of the original file size)
-* EXTREMELY FAST
-* very easy to use
+* Very easy to use
 
 # REQUIREMENTS
 * [FFMPEG](https://ffmpeg.org/download.html)
