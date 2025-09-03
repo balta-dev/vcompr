@@ -6,6 +6,8 @@ VCut is a lightweight command-line tool to quickly compress videos.
 * EXTREMELY FAST
 * very easy to use
 
+# --- Linux ---
+
 ## Download the latest release:
 ``` https://github.com/balta-dev/vcompr/releases/download/1.0/vcompr ```
 
@@ -13,6 +15,16 @@ VCut is a lightweight command-line tool to quickly compress videos.
 ```bash
 cd {your/download/directory}
 sudo mv vcompr /usr/bin 
+```
+
+# --- Windows ---
+
+## Download the latest release:
+``` https://github.com/balta-dev/vcompr/releases/download/1.0/vcompr.exe ```
+
+## Go to your Download Folder, right click and open "cmd" or "powershell", and paste that command to use it globally:
+```powershell
+Copy-Item .\vcompr.exe "C:\Windows\System32"
 ```
 
 ## Ready! Usage examples:
